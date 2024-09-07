@@ -1,5 +1,5 @@
 # NotesApp
 Electron
-##install
+#install
 npm install<br>
 npm start
